@@ -1,0 +1,46 @@
+/* body {
+    background-image: url(assets/images/bg_6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    height: 100%;
+} */
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-color: lightcoral;
+}
+
+/* footer css part style  */
+#footer {
+    background-color: black;
+    padding: 20px;
+    color: #99978f;
+}
+
+li {
+    list-style-type: none;
+}
+
+.link a {
+    border: .125rem solid #222;
+    border-radius: 50%;
+    text-decoration: none;
+    background-color: #222;
+    outline: 0 solid;
+    width: 2rem;
+    height: 2rem;
+    margin: .212rem;
+    transition: all .3s ease-out;
+    box-shadow: 0 .25em .25em rgba(0, 0, 0, .3);
+    line-height: 1.77rem;
+    color: #eee;
+}
+
+.BG {
+    background-color: #99978f;
+    width: 100%;
+}
+
+/* footer css part style  */
